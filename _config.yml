@@ -28,7 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: jennifer-holland-79a407188
 
 # Build settings
-theme: jekyll-theme-clean-blog
+theme: minima
 plugins:
   - jekyll-feed
 
